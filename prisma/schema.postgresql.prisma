@@ -1,0 +1,12 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// Full PostgreSQL Enterprise schema matching schema.prisma with native Decimal and Enum types
+// For production deployments with Docker / Supabase / Neon / PostgreSQL server
+
