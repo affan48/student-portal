@@ -45,3 +45,4 @@ NODE_ENV="production"
 npm test
 ```
 Runs unit and integration tests verifying password hashing, JWT token verification, GPA/CGPA mathematics, attendance calculations, running balance integrity, and database relations.
+

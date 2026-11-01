@@ -60,3 +60,4 @@ User
 2. **Identity Derivation**: Endpoints derive student identity directly from the authenticated session context, preventing student ID spoofing.
 3. **Examination Security**: Online exam correct answers (`isCorrect`) are never exposed in questions API responses. Scores are evaluated exclusively server-side.
 4. **Registration Constraints**: Students cannot exceed 21 credit hours per semester.
+

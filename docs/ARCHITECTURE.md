@@ -76,3 +76,4 @@ The University Management System (UMS) and Student Information System (SIS) is e
 - Accessible keyboard focus rings (`focus-visible:ring-2 focus-visible:ring-royal-600`).
 - Minimum 44x44px touch targets.
 - Text and data alternatives for all charts and meters.
+

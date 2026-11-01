@@ -20,3 +20,4 @@ Passwords are hashed using `bcrypt` with a work factor of 10 (`bcrypt.hash(passw
 
 ## 4. Contextual Identity Derivation
 To protect student privacy and prevent horizontal privilege escalation, all `/me` endpoints (`/students/me/...`, `/finance/.../me`, etc.) resolve the student's database identifier from the verified JWT payload rather than trusting client-provided query parameters or body payloads.
+

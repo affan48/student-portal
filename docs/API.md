@@ -55,3 +55,4 @@ Base URL: `/api/v1`
 - `GET /api/v1/admin/courses` — Course offerings and enrollment statistics.
 - `GET /api/v1/admin/faculty` — Faculty roster and teaching loads.
 - `GET /api/v1/admin/reports` — Institutional analytics (GPA, Fee recovery, Attendance).
+
